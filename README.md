@@ -15,10 +15,10 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-I am a doctoral candidate in Beijing University of Posts and Telecommunications(BUPT)
+I am a doctoral candidate in BUPT
 
-I will share some ideas on the learning process, including reinforcement learning and optical communication
+I will share some ideas on the learning process, including **reinforcement learning** and **optical communication**
 
-At the same time, I will also update my articles on CSDN
+At the same time, I will also update my articles on CSDN, **西土城山羊卷**
 
 Let's make progress together 😄
