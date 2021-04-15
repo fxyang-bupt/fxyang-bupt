@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-I am a Ph.D in BUPT
+I am Fangxu Yang(杨方旭), a Ph.D in BUPT
 
 I will share some ideas on the learning process, including **reinforcement learning** and **optical communication**
 
