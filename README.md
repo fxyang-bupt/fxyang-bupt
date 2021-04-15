@@ -14,3 +14,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+I am a doctoral candidate in Beijing University of Posts and Telecommunications(BUPT)
+
+I will share some ideas on the learning process, including reinforcement learning and optical communication
+
+At the same time, I will also update my articles on CSDN
+
+Let's make progress together 😄
